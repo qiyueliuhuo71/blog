@@ -35,5 +35,6 @@ print_r(['cs@cs_line'=>"======".__LINE__."======\n",'data'=>[]]);
 print_r(['cs@cs_line'=>"======".__LINE__."======\n",'data'=>[]]);
 print_r(['cs@cs_line'=>"======".__LINE__."======\n",'data'=>[1111]]);
 print_r(['cs@cs_line'=>"======".__LINE__."======\n",'data'=>[2222]]);
+print_r(['cs@cs_line'=>"======".__LINE__."======\n",'data'=>['wjj']]);
 die;
 ?>
